@@ -47,7 +47,7 @@ class Rocket(Body):
             self.vx += DV * self.vx / V
             self.vy += DV * self.vy / V
 
-np.sin
+
 
 b = Body(0, 0, 9, 9)
 r = Rocket(0, 0)
