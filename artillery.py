@@ -67,8 +67,6 @@ for b in bodies: # для всех тел
     pp.plot(b.trajectory_x, b.trajectory_y) # нарисуем их траектории
 
 
-# In[ ]:
-
 
 
 
