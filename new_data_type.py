@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 from numbers import Number
 
 
@@ -159,8 +153,6 @@ if __name__ == '__main__':
     print(s1//s3)
     print(s1 == s2)
 
-
-# In[ ]:
 
 
 
